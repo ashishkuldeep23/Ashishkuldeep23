@@ -1,10 +1,10 @@
 # Intro
 ## Ashish kuldeep 
 
-- 👋 Hi, I’m @Ashishkuldeep23
-- 👀 I’m interested in web-development topics
+- 👋 Hi, I’m Ashis kuldeep , userName is @Ashishkuldeep23.
+- 👀 I’m interested in web-development topics.
 - 🌱 I’m currently learning Bckend web-development
-- 💞️ I’m looking to collaborate on web related projects.
+- 🤝 I’m looking to collaborate on web related projects.
 - 📫 How to reach me via may email :- ashishkuldeep6@gmail
 
 <!---
