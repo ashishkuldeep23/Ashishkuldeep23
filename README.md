@@ -72,7 +72,7 @@ University of Technology (2016 - 2020)
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishkuldeep23&show_icons=true&theme=radical)
 
 ---
 
